@@ -16,7 +16,7 @@ Graduated professional, responsible, and dedicated, with a personal commitment t
 - Responsible for version control and pull requests on the project's GitHub repository.
 
 ## 🎯Skills
-- **Databases:** ![image]({(https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)})
+- **Databases:** <img src="{[BadgeURLHere](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)}" />
 - **FrontEnd Frameworks:** ReactJS, Next.JS.
 - **BackEnd Frameworks:** ExpressJS, Fiber, Django.
 - **Programming Languages:** JavaScript, Python, Go.
