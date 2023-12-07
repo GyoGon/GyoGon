@@ -31,7 +31,7 @@ Graduated professional, responsible, and dedicated, with a personal commitment t
 - English (B2 level).
 - Native Spanish.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GyoGon)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={GyoGon}
 
 <!--
 **GyoGon/GyoGon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
