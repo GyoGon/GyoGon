@@ -31,7 +31,7 @@ Graduated professional, responsible, and dedicated, with a personal commitment t
 - English (B2 level).
 - Native Spanish.
 
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={GyoGon}
+![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={GyoGon})
 
 <!--
 **GyoGon/GyoGon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
