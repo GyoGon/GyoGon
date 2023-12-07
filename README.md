@@ -1,5 +1,5 @@
 # Giovanni Gonzalez
-**Email:** giovannip.gonzalezh@gmail.com  
+**📧Email:** giovannip.gonzalezh@gmail.com  
 
 ## 💼Professional Profile
 Graduated professional, responsible, and dedicated, with a personal commitment to continuous learning. Great ability to adapt within collaborative teams, encourage the exchange of ideas, and facilitate consensus-driven solutions. Approaches challenges with enthusiasm and consistently seeks opportunities for personal and professional growth.
