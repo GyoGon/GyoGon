@@ -19,8 +19,6 @@
   - Real-time data sync from Firestore to Algolia via Cloud Functions.
   - Deployment on GCP (Cloud Run, Cloud Functions, Cloud Scheduler).
 
-  **Backend Developer - [Spacio](https://github.com/Spacio-app/content-management-microservice)**
-  - Full backend development and deployment on Heroku using Docker.
 
   **Full Stack Developer - DuocUC CAF Gym** *(private repository)*
   - Full Stack development using the MERN stack.
@@ -59,6 +57,12 @@
 <!--
 **GyoGon/GyoGon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+  **Backend Developer - [Spacio](https://github.com/Spacio-app/content-management-microservice)**
+  - Full backend development and deployment on Heroku using Docker.
+
+
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
